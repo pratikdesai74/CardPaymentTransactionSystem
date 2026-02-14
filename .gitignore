@@ -1,0 +1,23 @@
+# Compiled class files
+*.class
+out/
+target/
+
+# IDE
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Maven
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
